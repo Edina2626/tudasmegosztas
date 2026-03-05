@@ -3,4 +3,4 @@ b = int(input("Add meg a második számot: "))
 
 osszeg = a - b 
 print("A számok összege: ", osszeg)
-print("Mindenki jó lesz ebben!!!!!!!!!!")
+print("Mindenki jó lesz ebben!!!!!!!!!!??????")
